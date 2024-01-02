@@ -3,7 +3,7 @@ title: "Data formats in APIs"
 datePublished: Tue Jan 02 2024 18:03:38 GMT+0000 (Coordinated Universal Time)
 cuid: clqwnrhme000e08jtcpq39a5z
 slug: data-formats-in-apis
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704218473324/acbbebd7-2cbe-4b58-b55b-bb4462e5abbe.gif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704220522609/2f37943a-397c-4695-abf8-4c2c7b0ea6fc.gif
 tags: xml, json, apis, yaml, protobuf, messagepack
 
 ---
